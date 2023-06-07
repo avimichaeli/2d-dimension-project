@@ -1,0 +1,65 @@
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.exe.config
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.exe.config
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\graphicswork2aviand nadav\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.exe.config
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.exe
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\bin\Debug\GraphicsEx2.pdb
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.csproj.CoreCompileInputs.cache
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.exe
+C:\Users\nehor\Downloads\folderGraphicsEx2\GraphicsEx2\obj\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\5\bin\Debug\GraphicsEx2.exe.config
+C:\Users\Home\Desktop\5\bin\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\5\bin\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\5\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\5\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\Home\Desktop\5\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\Home\Desktop\5\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\5\obj\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\5\obj\Debug\GraphicsEx2.pdb
+C:\Users\nehor\Downloads\5\5\bin\Debug\GraphicsEx2.exe.config
+C:\Users\nehor\Downloads\5\5\bin\Debug\GraphicsEx2.exe
+C:\Users\nehor\Downloads\5\5\bin\Debug\GraphicsEx2.pdb
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.csproj.CoreCompileInputs.cache
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.exe
+C:\Users\nehor\Downloads\5\5\obj\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\6\bin\Debug\GraphicsEx2.exe.config
+C:\Users\Home\Desktop\6\bin\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\6\bin\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\6\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\6\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\Home\Desktop\6\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\Home\Desktop\6\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\6\obj\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\6\obj\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\‏‏graphichomework2\bin\Debug\GraphicsEx2.exe.config
+C:\Users\Home\Desktop\‏‏graphichomework2\bin\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\‏‏graphichomework2\bin\Debug\GraphicsEx2.pdb
+C:\Users\Home\Desktop\‏‏graphichomework2\obj\Debug\GraphicsEx2.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\‏‏graphichomework2\obj\Debug\GraphicsEx2.Form1.resources
+C:\Users\Home\Desktop\‏‏graphichomework2\obj\Debug\GraphicsEx2.Properties.Resources.resources
+C:\Users\Home\Desktop\‏‏graphichomework2\obj\Debug\GraphicsEx2.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\‏‏graphichomework2\obj\Debug\GraphicsEx2.exe
+C:\Users\Home\Desktop\‏‏graphichomework2\obj\Debug\GraphicsEx2.pdb
